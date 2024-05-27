@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/23 23:09:14.000.368,=R:\Downloads\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/23 23:09:14.000.384,=R:\Downloads\Unit1.cpp</Transaction>
+    <Transaction>2022/12/23 23:12:21.000.340,R:\Downloads\Unit1.cpp=R:\Downloads\Wave\Unit1.cpp</Transaction>
+    <Transaction>2022/12/23 23:12:21.000.356,R:\Downloads\Project1.cbproj=R:\Downloads\Wave\Wave.cbproj</Transaction>
+    <Transaction>2022/12/23 23:12:21.000.340,R:\Downloads\Unit1.dfm=R:\Downloads\Wave\Unit1.dfm</Transaction>
+    <Transaction>2022/12/23 23:12:21.000.333,R:\Downloads\Project1PCH1.h=R:\Downloads\Wave\WavePCH1.h</Transaction>
+    <Transaction>2022/12/23 23:12:21.000.340,R:\Downloads\Unit1.h=R:\Downloads\Wave\Unit1.h</Transaction>
+    <Transaction>2022/12/23 23:12:26.000.219,R:\Downloads\Wave\Unit1.h=R:\Downloads\Wave\Main.h</Transaction>
+    <Transaction>2022/12/23 23:12:26.000.219,R:\Downloads\Wave\Unit1.cpp=R:\Downloads\Wave\Main.cpp</Transaction>
+    <Transaction>2022/12/23 23:12:26.000.219,R:\Downloads\Wave\Unit1.dfm=R:\Downloads\Wave\Main.dfm</Transaction>
+    <Transaction>2022/12/23 23:19:54.000.478,=R:\Downloads\Wave\bass.h</Transaction>
+    <Transaction>2022/12/23 23:25:55.000.634,R:\Downloads\Wave\bass.h=</Transaction>
+    <Transaction>2022/12/23 23:26:06.000.643,=R:\Downloads\Wave\bass_bcb.lib</Transaction>
+    <Transaction>2023/01/03 15:31:07.000.013,=R:\Downloads\Wave\bassflac_bcb.lib</Transaction>
+    <Transaction>2023/01/03 15:41:17.000.805,=R:\Downloads\Wave\bassape_bcb.lib</Transaction>
+    <Transaction>2023/01/03 18:33:50.000.226,R:\Downloads\Wave\bassape_bcb.lib=</Transaction>
+    <Transaction>2023/01/03 18:33:55.000.035,R:\Downloads\Wave\bassflac_bcb.lib=</Transaction>
+  </Transactions>
+</BorlandProject>
